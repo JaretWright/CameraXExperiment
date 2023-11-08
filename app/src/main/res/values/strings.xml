@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraXExperiment</string>
+    <string name="take_photo">Take Photo</string>
+</resources>
